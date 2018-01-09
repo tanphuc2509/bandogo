@@ -1,0 +1,36 @@
+ds form
+user and permit
+permit
+
+checkpermission() -frmLoadPurchase
+
+user
+-id
+-username
+-pass
+
+
+/*permission
+-add
+-del
+-edit
+-view*/
+
+
+
+fuction
+-userid
+-functionid - creen - inter
+-functionname - frm
+-view -del -add
+-notes
+-isActive
+
+
+function and permis
+-functionid
+-userid
+-isview
+-isnew
+-isdel
+-isupdate
